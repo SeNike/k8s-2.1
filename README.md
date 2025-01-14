@@ -39,7 +39,7 @@
 3. Продемонстрировать возможность чтения файла изнутри пода.
 4. Предоставить манифесты Deployment, а также скриншоты или вывод команды из п. 2.
 
-![IMG](https://github.com/SeNike/Study_24/blob/main/k8s/2.1/1.png)
+![IMG](https://github.com/SeNike/Study_24/blob/main/k8s/2.1/2.png)
 
 ------
 
